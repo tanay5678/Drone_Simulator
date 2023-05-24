@@ -6,6 +6,6 @@
 
 ● When a user clicks on the 'simulate' button, use Google map marker to
 
-● display the drone and draw the entire expected path. Keep updating the drone position with time and also update the progress over the map.
+● Display the drone and draw the entire expected path. Keep updating the drone position with time and also update the progress over the map.
 
-This Task was given by FlyteBase.
+
